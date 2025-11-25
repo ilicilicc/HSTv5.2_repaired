@@ -2,6 +2,9 @@
 
 This repository contains the official PyTorch implementation for the Harmonic Spine Transformer (HST) v5.2, a state-of-the-art language model architecture.
 
+https://aethyr-global.com for licencing
+
+
 ## Key Features
 
 *   **Unified Architecture**: Supports both standard token-by-token processing (`token` mode) and a highly efficient chunk-based processing (`chunk` mode) in a single, unified model.
